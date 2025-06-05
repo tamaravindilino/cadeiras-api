@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace CadeirasAPI.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250605131444_UpdateMigracao")]
-    partial class UpdateMigracao
+    [Migration("20250605192743_Inicial")]
+    partial class Inicial
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

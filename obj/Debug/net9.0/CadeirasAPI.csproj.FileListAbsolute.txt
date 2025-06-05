@@ -118,3 +118,4 @@ C:\.NET\CadeirasAPI_\CadeirasAPI\bin\Debug\net9.0\runtimes\win-x64\native\k5sprt
 C:\.NET\CadeirasAPI_\CadeirasAPI\bin\Debug\net9.0\runtimes\win-x64\native\krb5_64.dll
 C:\.NET\CadeirasAPI_\CadeirasAPI\bin\Debug\net9.0\runtimes\win-x64\native\krbcc64.dll
 C:\.NET\CadeirasAPI_\CadeirasAPI\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\.NET\CadeirasAPI_\CadeirasAPI\obj\Debug\net9.0\CadeirasAPI.sourcelink.json

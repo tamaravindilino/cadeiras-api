@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CadeirasAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a6e563ad8289c5af48d3401ad15f1885a7abc79")]
 [assembly: System.Reflection.AssemblyProductAttribute("CadeirasAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CadeirasAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
