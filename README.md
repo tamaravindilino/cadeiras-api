@@ -1,11 +1,11 @@
 ## Sistema de Cadastro de Cadeiras de Dentista
 
-* Objetivo
+### Objetivo
 
 Desenvolver uma api de gerenciamento de cadeiras de dentista utilizando a plataforma .NET. O aplicativo deve permitir a criação, leitura, atualização e exclusão de cadeiras. 
 
 
-* Funcionalidades
+### Funcionalidades
 
 - Cadastro de cadeiras
 - Alocação automática de cadeiras proporcional ao tempo solicitado
@@ -13,14 +13,14 @@ Desenvolver uma api de gerenciamento de cadeiras de dentista utilizando a plataf
 - Distribuição cíclica entre cadeiras disponíveis
 
 
-* Stack utilizada
+### Stack utilizada
 
 - C#
 - ASP.NET Core 8
 - MySQL
 
 
-# ** Como rodar o projeto localmente
+## Como rodar o projeto localmente
 
 1. Clone do git 
   git clone https://github.com/tamaravindilino/cadeiras-api.git
