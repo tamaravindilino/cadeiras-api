@@ -1,0 +1,65 @@
+## Ignore arquivos e pastas padrão do .NET
+bin/
+obj/
+out/
+
+# Build results
+*.exe
+*.dll
+*.app
+*.pdb
+
+# VS Code
+.vscode/
+
+# Rider
+.idea/
+
+# Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+
+# Arquivos de log e cache
+*.log
+*.cache
+*.db
+*.pid
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Secretos
+secrets.json
+
+# Config local
+*.local.json
+appsettings.Development.json
+
+# Pacotes
+packages/
+*.nupkg
+*.snupkg
+
+# Testes
+TestResults/
+*.TestResults/
+*.coverage
+*.coveragexml
+
+# Dotnet tools
+.dotnet/
+
+# Publicações
+publish/
+wwwroot/
+
+# Global tool restore result
+.project.assets.json
+
+# Docker (opcional)
+docker-compose.override.yml
+.env
